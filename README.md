@@ -65,12 +65,7 @@
 <a href="https://www.json.org/json-en.html">
     <img src="https://img.shields.io/badge/Assetfinder-Amass-000000?style=for-the-badge&logo=go&logoColor=white">
   </a>
-
-</p>
-
-<h2 align="center" style="color="red"> Languages </h2>  
-<p align="center">
-
+<br>
   <a href="https://html.com/">
     <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
   </a>
@@ -86,11 +81,7 @@
  <a href="#"></a>
  <img src="https://img.shields.io/badge/PYTHON-blue?style=for-the-badge&logo=python&logoColor=yellow">
  </a>
-</p>
-
-<h2 align="center" style="color="red" > Software </h2>
-<p align="center">
- 
+<br>
   <a href="https://www.sublimetext.com/">
     <img src="https://img.shields.io/badge/sublime%20text-FF9800?&style=for-the-badge&logo=sublime-text&logoColor=white">
   </a>
