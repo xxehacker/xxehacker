@@ -38,7 +38,7 @@ My name is Mridupawan Bordoloi and I'm a Ethical Hacker & Frontend Web Developer
 
 <p align="center">
   <a href="https://www.typescriptlang.org/">
-    <img src="https://img.shields.io/badge/Web-PT-3178C6?&style=flat-square&logo=web&logoColor=white">
+    <img src="https://img.shields.io/badge/Web-PT-3178C6?&style=for-the-badge&logo=web&logoColor=white">
   </a>
   <a href="https://golang.org/">
     <img src="https://img.shields.io/badge/PT-00ADD8?&style=for-the-badge&logo=android&logoColor=white">
