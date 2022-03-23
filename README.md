@@ -107,11 +107,11 @@
 <a href="https://www.apple.com/in/macos/monterey/">
     <img src="https://img.shields.io/badge/MacOS-000000?&style=for-the-badge&logo=Apple&logoColor=white">
   </a>
-<a href="https://www.apple.com/in/macos/monterey/">
-    <img src="https://img.shields.io/badge/MacOS-000000?&style=for-the-badge&logo=Apple&logoColor=white">
+<a href="https://www.linux.org/">
+    <img src="https://img.shields.io/badge/LINUX-black?style=for-the-badge&logo=linux&logoColor=yellow">
   </a>
 <a href="microsoft.com">
-    <img src="https://img.shields.io/badge/?&style=for-the-badge&logo=Apple&logoColor=white">
+    <img src="https://img.shields.io/badge/WINDOWS-blue?style=for-the-badge&logo=windows&logoColor=white">
   </a>
 
 </p>
