@@ -12,7 +12,7 @@
 </p>
 <p>
 
-<h3> My name is Mridupawan Bordoloi and I'm a Ethical Hacker & Frontend Web Developer. I'm from Assam, living in Gohpur and currently focus on learning hacking. </h3> 
+My name is Mridupawan Bordoloi and I'm a Ethical Hacker & Frontend Web Developer. I'm from Assam, living in Gohpur and currently focus on learning hacking.  
 <br/>
 <br/>
 </div>
