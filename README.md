@@ -12,7 +12,7 @@
 </p>
 <p>
 
-My name is Mridupawan Bordoloi and I'm a Ethical Hacker & Frontend Web Developer. I'm from Assam, living in Gohpur and currently focus on learning hacking.  
+<h3> My name is Mridupawan Bordoloi and I'm a Ethical Hacker & Frontend Web Developer. I'm from Assam, living in Gohpur and currently focus on learning hacking. </h3> 
 <br/>
 <br/>
 </div>
@@ -54,25 +54,39 @@ My name is Mridupawan Bordoloi and I'm a Ethical Hacker & Frontend Web Developer
     <img src="https://img.shields.io/badge/Dirsearch-1572B6?style=for-the-badge&logo=python&logoColor=white">
   </a>
 
-  <a href="https://www.javascript.com/">
+  <a href="#">
     <img src="https://img.shields.io/badge/Subfinder-httpx-323330?style=for-the-badge&logo=go&logoColor=F7DF1E">
   </a>
 
-  <a href="https://html.com/">
-    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-  </a>
-  <a href="https://nodejs.org/en/">
+ <a href="https://nodejs.org/en/">
     <img src="https://img.shields.io/badge/Naabu-nuclei-339933?style=for-the-badge&logo=go&logoColor=white">
   </a>
   <br>
 
-  <a href="https://www.apple.com/in/macos/monterey/">
-    <img src="https://img.shields.io/badge/MacOS-000000?&style=for-the-badge&logo=Apple&logoColor=white">
-  </a>
-
-  <a href="https://www.json.org/json-en.html">
+<a href="https://www.json.org/json-en.html">
     <img src="https://img.shields.io/badge/Assetfinder-Amass-000000?style=for-the-badge&logo=go&logoColor=white">
   </a>
+
+
+<h2 align="center"> Languages </h2>  
+ 
+  <a href="https://html.com/">
+    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+  </a>
+ <a href="#">
+   <img src="https://img.shields.io/badge/GNU-Bash-brightgreen?style=for-the-badge&logo=linux&logoColor=cyan">
+ </a>
+ <a href="#"></a>
+   <img src="https://img.shields.io/badge/CSS3-BOOTSTRAP-brightgreen?style=for-the-badge&logo=CSS3&logoColor=blue">
+ </a>
+  <a href="#"></a>
+   <img src="https://img.shields.io/badge/FISH-FISH-red?style=for-the-badge&logo=FISH&logoColor=blue">
+ </a>
+ <a href="#"></a>
+ <img src="https://img.shields.io/badge/PYTHON-blue?style=for-the-badge&logo=python&logoColor=yellow">
+ </a>
+
+ <h2 align="center"> SOFRWARE </h2>
   <a href="https://www.sublimetext.com/">
     <img src="https://img.shields.io/badge/sublime%20text-FF9800?&style=for-the-badge&logo=sublime-text&logoColor=white">
   </a>
@@ -86,7 +100,18 @@ My name is Mridupawan Bordoloi and I'm a Ethical Hacker & Frontend Web Developer
     <img src="https://img.shields.io/badge/github-F05032?&style=for-the-badge&logo=github&logoColor=white">
   </a>
   <br>
-  
+<a href="https://www.apple.com/in/macos/monterey/">
+    <img src="https://img.shields.io/badge/MacOS-000000?&style=for-the-badge&logo=Apple&logoColor=white">
+  </a>
+<a href="https://www.apple.com/in/macos/monterey/">
+    <img src="https://img.shields.io/badge/MacOS-000000?&style=for-the-badge&logo=Apple&logoColor=white">
+  </a>
+<a href="microsoft.com">
+    <img src="https://img.shields.io/badge/?&style=for-the-badge&logo=Apple&logoColor=white">
+  </a>
+
 </p>
 
 <br>
+
+s
