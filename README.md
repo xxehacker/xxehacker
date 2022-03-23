@@ -32,7 +32,7 @@
 <br>
 
 
-<h2 align="center"> 🔧 Skills & Tools: </h2>
+<h2 align="center" style="color="red"> 🔧 Skills & Tools: </h2>
 
 
 <p align="center">
@@ -68,7 +68,7 @@
 
 </p>
 
-<h2 align="center"> Languages </h2>  
+<h2 align="center" style="color="red"> Languages </h2>  
 <p align="center">
 
   <a href="https://html.com/">
@@ -88,7 +88,7 @@
  </a>
 </p>
 
-<h2 align="center"> SOFRWARE </h2>
+<h2 align="center" style="color="red" > Software </h2>
 <p align="center">
  
   <a href="https://www.sublimetext.com/">
