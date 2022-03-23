@@ -37,16 +37,8 @@ My name is Mridupawan Bordoloi and I'm a Ethical Hacker & Frontend Web Developer
 
 
 <p align="center">
-  <a href="https://www.typescriptlang.org/">
-    <img src="https://img.shields.io/badge/Web-PT-3178C6?&style=for-the-badge&logo=web&logoColor=white">
-  </a>
-  <a href="https://golang.org/">
-    <img src="https://img.shields.io/badge/PT-00ADD8?&style=for-the-badge&logo=android&logoColor=white">
-  </a>
-  <a href="https://www.rust-lang.org/">
-    <img src="https://img.shields.io/badge/PT-000000?&style=for-the-badge&logo=ios&logoColor=white">
-  </a>
-  <a href="https://www.cplusplus.com/doc/tutorial/">
+  
+  <a href="https://portswigger.net/burp">
     <img src="https://img.shields.io/badge/burp Suite-00599C?style=for-the-badge&logo=java&logoColor=white">
   </a>
   <a href="https://html.com/">
@@ -90,9 +82,3 @@ My name is Mridupawan Bordoloi and I'm a Ethical Hacker & Frontend Web Developer
 </p>
 
 <br>
-
-
-### 📊 Github Stats
-<br>
-
-### 🛠️ My Projects
