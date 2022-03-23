@@ -80,9 +80,6 @@
  <a href="#"></a>
    <img src="https://img.shields.io/badge/CSS3-BOOTSTRAP-darkblue?style=for-the-badge&logo=CSS3&logoColor=blue">
  </a>
- <a href="#"></a>
- <img src="https://img.shields.io/badge/BOOTSTRAP-purple?style=for-the-badge&logo=bootstrap4&logoColor=purple">
-</a>
   <a href="#"></a>
    <img src="https://img.shields.io/badge/FISH-FISH-red?style=for-the-badge&logo=FISH&logoColor=blue">
  </a>
