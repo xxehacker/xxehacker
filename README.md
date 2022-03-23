@@ -68,8 +68,8 @@
 
 </p>
 
-<h2 align="left"> Languages </h2>  
-<p align="left">
+<h2 align="center"> Languages </h2>  
+<p align="center">
 
   <a href="https://html.com/">
     <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
@@ -78,8 +78,11 @@
    <img src="https://img.shields.io/badge/Bash-brightgreen?style=for-the-badge&logo=linux&logoColor=black">
  </a>
  <a href="#"></a>
-   <img src="https://img.shields.io/badge/CSS3-BOOTSTRAP-brightgreen?style=for-the-badge&logo=CSS3&logoColor=blue">
+   <img src="https://img.shields.io/badge/CSS3-BOOTSTRAP-darkblue?style=for-the-badge&logo=CSS3&logoColor=blue">
  </a>
+ <a href="#"></a>
+ <img src="https://img.shields.io/badge/BOOTSTRAP-purple?style=for-the-badge&logo=bootstrap4&logoColor=purple">
+</a>
   <a href="#"></a>
    <img src="https://img.shields.io/badge/FISH-FISH-red?style=for-the-badge&logo=FISH&logoColor=blue">
  </a>
@@ -88,8 +91,8 @@
  </a>
 </p>
 
-<h2 align="right"> SOFRWARE </h2>
-<p align="right">
+<h2 align="center"> SOFRWARE </h2>
+<p align="center">
  
   <a href="https://www.sublimetext.com/">
     <img src="https://img.shields.io/badge/sublime%20text-FF9800?&style=for-the-badge&logo=sublime-text&logoColor=white">
