@@ -67,7 +67,8 @@
     <img src="https://img.shields.io/badge/Assetfinder-Amass-000000?style=for-the-badge&logo=go&logoColor=white">
   </a>
 
-
+</p>
+<p align="center">
 <h2 align="center"> Languages </h2>  
  
   <a href="https://html.com/">
@@ -85,7 +86,8 @@
  <a href="#"></a>
  <img src="https://img.shields.io/badge/PYTHON-blue?style=for-the-badge&logo=python&logoColor=yellow">
  </a>
-
+</p>
+<p align="center">
  <h2 align="center"> SOFRWARE </h2>
   <a href="https://www.sublimetext.com/">
     <img src="https://img.shields.io/badge/sublime%20text-FF9800?&style=for-the-badge&logo=sublime-text&logoColor=white">
@@ -111,7 +113,4 @@
   </a>
 
 </p>
-
 <br>
-
-s
