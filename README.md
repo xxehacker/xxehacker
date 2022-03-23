@@ -81,7 +81,7 @@
    <img src="https://img.shields.io/badge/CSS3-BOOTSTRAP-darkblue?style=for-the-badge&logo=CSS3&logoColor=blue">
  </a>
   <a href="#"></a>
-   <img src="https://img.shields.io/badge/FISH-FISH-red?style=for-the-badge&logo=FISH&logoColor=blue">
+   <img src="https://img.shields.io/badge/FISH-green?style=for-the-badge&logo=shell&logoColor=black">
  </a>
  <a href="#"></a>
  <img src="https://img.shields.io/badge/PYTHON-blue?style=for-the-badge&logo=python&logoColor=yellow">
