@@ -40,28 +40,21 @@
   <a href="https://portswigger.net/burp">
     <img src="https://img.shields.io/badge/burp Suite-00599C?style=for-the-badge&logo=java&logoColor=white">
   </a>
-  
    <a href="https://www.metasploit.com/">
     <img src="https://img.shields.io/badge/Metasploit-61DAFB?&style=for-the-badge&logo=Meta&logoColor=121212">
   </a>
-  
   <a href="https://www.sqlite.org/index.html">
     <img src="https://img.shields.io/badge/Sqlmap-003B57?&style=for-the-badge&logo=mysql&logoColor=white">
   </a>
-
  <a href="#">
     <img src="https://img.shields.io/badge/Dirsearch-1572B6?style=for-the-badge&logo=python&logoColor=white">
   </a>
-
   <a href="#">
     <img src="https://img.shields.io/badge/Subfinder-httpx-323330?style=for-the-badge&logo=go&logoColor=F7DF1E">
   </a>
-
  <a href="https://nodejs.org/en/">
     <img src="https://img.shields.io/badge/Naabu-nuclei-339933?style=for-the-badge&logo=go&logoColor=white">
   </a>
-  <br>
-
 <a href="https://www.json.org/json-en.html">
     <img src="https://img.shields.io/badge/Assetfinder-Amass-000000?style=for-the-badge&logo=go&logoColor=white">
   </a>
