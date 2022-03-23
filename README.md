@@ -69,7 +69,7 @@
 
 </p>
 
-<h2 align="center"> Languages </h2>  
+<h2 align="left"> Languages </h2>  
 <p align="center">
 
   <a href="https://html.com/">
@@ -89,7 +89,7 @@
  </a>
 </p>
 
-<h2 align="center"> SOFRWARE </h2>
+<h2 align="righr"> SOFRWARE </h2>
 <p align="center">
  
   <a href="https://www.sublimetext.com/">
