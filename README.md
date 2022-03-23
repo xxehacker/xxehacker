@@ -41,19 +41,35 @@ My name is Mridupawan Bordoloi and I'm a Ethical Hacker & Frontend Web Developer
   <a href="https://portswigger.net/burp">
     <img src="https://img.shields.io/badge/burp Suite-00599C?style=for-the-badge&logo=java&logoColor=white">
   </a>
-  <a href="https://html.com/">
-    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+  
+   <a href="https://www.metasploit.com/">
+    <img src="https://img.shields.io/badge/Metasploit-61DAFB?&style=for-the-badge&logo=Meta&logoColor=121212">
   </a>
-  <a href="https://www.w3schools.com/css/">
+  
+  <a href="https://www.sqlite.org/index.html">
+    <img src="https://img.shields.io/badge/Sqlmap-003B57?&style=for-the-badge&logo=mysql&logoColor=white">
+  </a>
+
+ <a href="#">
     <img src="https://img.shields.io/badge/Dirsearch-1572B6?style=for-the-badge&logo=python&logoColor=white">
   </a>
+
   <a href="https://www.javascript.com/">
     <img src="https://img.shields.io/badge/Subfinder-httpx-323330?style=for-the-badge&logo=go&logoColor=F7DF1E">
   </a>
-  <br>
+
+  <a href="https://html.com/">
+    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+  </a>
   <a href="https://nodejs.org/en/">
     <img src="https://img.shields.io/badge/Naabu-nuclei-339933?style=for-the-badge&logo=go&logoColor=white">
   </a>
+  <br>
+
+  <a href="https://www.apple.com/in/macos/monterey/">
+    <img src="https://img.shields.io/badge/MacOS-000000?&style=for-the-badge&logo=Apple&logoColor=white">
+  </a>
+
   <a href="https://www.json.org/json-en.html">
     <img src="https://img.shields.io/badge/Assetfinder-Amass-000000?style=for-the-badge&logo=go&logoColor=white">
   </a>
@@ -70,15 +86,8 @@ My name is Mridupawan Bordoloi and I'm a Ethical Hacker & Frontend Web Developer
     <img src="https://img.shields.io/badge/github-F05032?&style=for-the-badge&logo=github&logoColor=white">
   </a>
   <br>
-  <a href="https://reactjs.org/">
-    <img src="https://img.shields.io/badge/Metasploit-61DAFB?&style=for-the-badge&logo=Meta&logoColor=121212">
-  </a>
-  <a href="https://www.sqlite.org/index.html">
-    <img src="https://img.shields.io/badge/Sqlmap-003B57?&style=for-the-badge&logo=mysql&logoColor=white">
-  </a>
-  <a href="https://expressjs.com/">
-    <img src="https://img.shields.io/badge/MacOS-000000?&style=for-the-badge&logo=Apple&logoColor=white">
-  </a>
+  
 </p>
 
 <br>
+
