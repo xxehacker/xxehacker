@@ -68,9 +68,9 @@
   </a>
 
 </p>
-<p align="center">
+
 <h2 align="center"> Languages </h2>  
- 
+<p align="center"
   <a href="https://html.com/">
     <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
   </a>
@@ -87,8 +87,9 @@
  <img src="https://img.shields.io/badge/PYTHON-blue?style=for-the-badge&logo=python&logoColor=yellow">
  </a>
 </p>
+<h2 align="center"> SOFRWARE </h2>
+
 <p align="center">
- <h2 align="center"> SOFRWARE </h2>
   <a href="https://www.sublimetext.com/">
     <img src="https://img.shields.io/badge/sublime%20text-FF9800?&style=for-the-badge&logo=sublime-text&logoColor=white">
   </a>
