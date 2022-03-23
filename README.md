@@ -11,8 +11,7 @@
   <a href="https://twitter.com/mrstandu33"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 <p>
-
-<h3> My name is Mridupawan Bordoloi and I'm a Ethical Hacker & Frontend Web Developer. I'm from Assam, living in Gohpur and currently focus on learning hacking. </h3> 
+ My name is Mridupawan Bordoloi and I'm a Ethical Hacker & Frontend Web Developer. I'm from Assam, living in Gohpur and currently focus on learning hacking.  
 <br/>
 <br/>
 </div>
@@ -70,7 +69,7 @@
 </p>
 
 <h2 align="left"> Languages </h2>  
-<p align="center">
+<p align="left">
 
   <a href="https://html.com/">
     <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
@@ -89,8 +88,8 @@
  </a>
 </p>
 
-<h2 align="righr"> SOFRWARE </h2>
-<p align="center">
+<h2 align="right"> SOFRWARE </h2>
+<p align="right">
  
   <a href="https://www.sublimetext.com/">
     <img src="https://img.shields.io/badge/sublime%20text-FF9800?&style=for-the-badge&logo=sublime-text&logoColor=white">
