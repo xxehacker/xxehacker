@@ -1,7 +1,5 @@
-<div align="center" width="50">
-<img src="https://github.com/SecureAxom/SecureAxom/blob/main/hacked.gif" href="https://github.com/secureaxom" alt="SecureAxom"  width="550"/><br> 
-
-  <div style="width:100%;height:0;padding-bottom:45%;position:relative;"><iframe src="https://giphy.com/embed/ohONS2y8GTDoI" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/security-hacker-vulnerability-ohONS2y8GTDoI">via GIPHY</a></p>
+ <div style="width:100%;height:0;padding-bottom:45%;position:relative;">
+<img src="https://giphy.com/embed/ohONS2y8GTDoI" href="https://github.com/secureaxom" alt="SecureAxom"  width="100%" height="100%"/><br> 
   
 ## Hey 👋, I'm Mridupawan Bordoloi
 
