@@ -12,7 +12,7 @@
   <a href="https://facebook.com/mridupawan503"><img src="https://img.shields.io/badge/facebook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 </p>
 <p>
-<h4> My Name Is Mridupawan Bordoloi And I'm A Ethical Hacker & Frontend Web Developer. I'm From Assam, Living In Gohpur and Currently Focus On Learning Hacking.</h4>
+<h4>My Name Is Mridupawan Bordoloi And I’m A Ethical Hacker & Frontend Web Developer. I’m From Assam, Living In Gohpur And Currently Focus On Learning Hacking.</h4>
 <br/>
 <br/>
 </div>
@@ -21,14 +21,14 @@
   
 ### 🧐 More About Me:
 
-- 🔭  I’m currently working on **Hacking And Automation** 
+- 🔭  I’m currently working on **Hacking and Automation** 
 - 🤝  I’m looking to collaborate on making hardware projects with Raspberry Pi or Arduino.
-- 🌱  I’m currently learning Typescript and Python.
+- 🌱  I’m currently learning Bash Script and Python.
 - 👨🏻‍💻  Most of my projects are available on [Github](https://github.com/SecureAxom?tab=repositories). 
 - 💬  Ask me about anything tech related, I am happy to help.
 - 📫  Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/Mridupawan503/). 
 - 📝  Checkout my [resume]
-- 🎉  Fun-Fact: I Think I Am Most Powerfull Hacker In The World.
+- 🎉  Fun-Fact: I Think I Am Most Powerful Hacker In The World.
 
 <br>
 
@@ -101,3 +101,8 @@
 
 </p>
 <br>
+   <h1 align="center"> My Projects </h1>  
+     <img src="https://img.shields.io/badge/SUICIDE-red?style=for-the-badge&logo=linux&logoColor=black">                
+                                                                                                     
+                                                                                 
+                                                                                                         
