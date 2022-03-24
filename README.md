@@ -11,7 +11,7 @@
   <a href="https://facebook.com/mridupawan503"><img src="https://img.shields.io/badge/facebook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 </p>
 <p>
-<h4> My name is Mridupawan Bordoloi and I'm a Ethical Hacker & Frontend Web Developer. I'm from Assam, living in Gohpur and currently focus on learning hacking.</h4>
+<h4> My Name Is Mridupawan Bordoloi And I'm A Ethical Hacker & Frontend Web Developer. I'm From Assam, Living In Gohpur and Currently Focus On Learning Hacking.</h4>
 <br/>
 <br/>
 </div>
@@ -27,7 +27,7 @@
 - 💬  Ask me about anything tech related, I am happy to help.
 - 📫  Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/Mridupawan503/). 
 - 📝  Checkout my [resume]
-- 🎉 &nbsp; Fun-Fact: I Think I Am Most Powerfull Hacker In The World.
+- 🎉  Fun-Fact: I Think I Am Most Powerfull Hacker In The World.
 
 <br>
 
