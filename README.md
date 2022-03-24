@@ -4,11 +4,11 @@
 ## Hey 👋, I'm Mridupawan Bordoloi
 
 <h2> 📣 Need to contact me? Find me here: <br/> </h2>
-  <a href="mailto:contact@daniels-roth-stan.fr?subject=[GitHub]%20🔥%20Prise%20de%20contact&body=Bonjour%20Stan%2C%0A%0AJe%20viens%20vers%20toi%20aujourd%27hui%20apr%C3%A8s%20avoir%20vu%20ton%20profil%20GitHub%20pour%20..."><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
-  <a href="https://instagram.com/mrstandu33"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://twitch.tv/mrstandu33"><img src="https://img.shields.io/badge/twitch-9146FF.svg?style=for-the-badge&logo=twitch&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/stan-daniels-roth-278478127"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/mrstandu33"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="mailto:mridupawan503@gmail.com?subject=[GitHub]%20🔥%20Prise%20de%20contact&body=Bonjour%20Stan%2C%0A%0AJe%20viens%20vers%20toi%20aujourd%27hui%20apr%C3%A8s%20avoir%20vu%20ton%20profil%20GitHub%20pour%20..."><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+  <a href="https://instagram.com/mridupawan503"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/#"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/mridupawan503"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://facebook.com/mridupawan503"><img src="https://img.shields.io/badge/facebook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 </p>
 <p>
  My name is Mridupawan Bordoloi and I'm a Ethical Hacker & Frontend Web Developer. I'm from Assam, living in Gohpur and currently focus on learning hacking.  
@@ -20,19 +20,19 @@
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on **Hacking And Automation**
-- 🤝 &nbsp; I’m looking to collaborate on making hardware projects with Raspberry Pi or Arduino
-- 🌱 &nbsp; I’m currently learning Typescript and Python; 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Mridupawan503?tab=repositories)
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/Mridupawan503/)
-- 📝 &nbsp; Checkout my [resume]
-- 🎉 &nbsp; Fun-Fact: I Think I Am Most Powerfull Hacker In The World.
+- 🔭 <h4> I’m currently working on **Hacking And Automation** </h4>
+- 🤝 <h4> I’m looking to collaborate on making hardware projects with Raspberry Pi or Arduino. </h4>
+- 🌱 <h4> I’m currently learning Typescript and Python. </h4>
+- 👨🏻‍💻 <h4> Most of my projects are available on [Github](https://github.com/Mridupawan503?tab=repositories). </h4>
+- 💬 <h4> Ask me about anything tech related, I am happy to help. </h4>
+- 📫 <h4> Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/Mridupawan503/). </h4>
+- 📝 <h4> Checkout my [resume] </h4>
+- 🎉 &nbsp; Fun-Fact: I Think I Am Most Powerfull Hacker In The World.</h4>
 
 <br>
 
 
-<h2 align="center" style="color="red"> 🔧 Skills & Tools: </h2>
+<h2 align="center" style="color="red";> 🤖 Skills & Tools 🤖 </h2>
 
 
 <p align="center">
