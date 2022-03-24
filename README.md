@@ -24,7 +24,7 @@
 - 🔭  I’m currently working on **Hacking And Automation** 
 - 🤝  I’m looking to collaborate on making hardware projects with Raspberry Pi or Arduino.
 - 🌱  I’m currently learning Typescript and Python.
-- 👨🏻‍💻  Most of my projects are available on [Github](https://github.com/Mridupawan503?tab=repositories). 
+- 👨🏻‍💻  Most of my projects are available on [Github](https://github.com/SecureAxom?tab=repositories). 
 - 💬  Ask me about anything tech related, I am happy to help.
 - 📫  Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/Mridupawan503/). 
 - 📝  Checkout my [resume]
