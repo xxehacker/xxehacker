@@ -20,14 +20,14 @@
   
 ### 🧐 More About Me:
 
-- 🔭 <h4> I’m currently working on **Hacking And Automation** </h4>
-- 🤝 <h4> I’m looking to collaborate on making hardware projects with Raspberry Pi or Arduino. </h4>
-- 🌱 <h4> I’m currently learning Typescript and Python. </h4>
-- 👨🏻‍💻 <h4> Most of my projects are available on [Github](https://github.com/Mridupawan503?tab=repositories). </h4>
-- 💬 <h4> Ask me about anything tech related, I am happy to help. </h4>
-- 📫 <h4> Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/Mridupawan503/). </h4>
-- 📝 <h4> Checkout my [resume] </h4>
-- 🎉 &nbsp; Fun-Fact: I Think I Am Most Powerfull Hacker In The World.</h4>
+- 🔭  I’m currently working on **Hacking And Automation** 
+- 🤝  I’m looking to collaborate on making hardware projects with Raspberry Pi or Arduino.
+- 🌱  I’m currently learning Typescript and Python.
+- 👨🏻‍💻  Most of my projects are available on [Github](https://github.com/Mridupawan503?tab=repositories). 
+- 💬  Ask me about anything tech related, I am happy to help.
+- 📫  Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/Mridupawan503/). 
+- 📝  Checkout my [resume]
+- 🎉 &nbsp; Fun-Fact: I Think I Am Most Powerfull Hacker In The World.
 
 <br>
 
