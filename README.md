@@ -1,8 +1,8 @@
  <div style="width:100%;height:0;padding-bottom:45%;position:relative;">
-<img src="https://giphy.com/embed/ohONS2y8GTDoI" href="https://github.com/secureaxom" alt="SecureAxom"  width="100%" height="100%"/><br> 
+<img src="https://github.com/SecureAxom/SecureAxom/blob/main/matrix.gif" href="https://github.com/secureaxom" alt="SecureAxom"  width="100%" height="100%"/><br> 
  </div>
  <div align="center" width="50%">
-## Hey 👋, I'm Mridupawan Bordoloi
+ <h1> Hey 👋, I'm Mridupawan Bordoloi </h1>
 
 <h3> 📣 Need to contact me? Find me here: <br/> </h3>
   <a href="mailto:mridupawan503@gmail.com?subject=[GitHub]%20🔥%20Prise%20de%20contact&body=Bonjour%20Stan%2C%0A%0AJe%20viens%20vers%20toi%20aujourd%27hui%20apr%C3%A8s%20avoir%20vu%20ton%20profil%20GitHub%20pour%20..."><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
@@ -17,7 +17,7 @@
 <br/>
 </div>
 <hr></hr>
-<img align="right" alt="GIF" src="https://github.com/secureaxom/secureaxom/blob/main/hacker.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/secureaxom/secureaxom/blob/main/hacker.gif?raw=true" width="450" height="320" />
   
 ### 🧐 More About Me:
 
