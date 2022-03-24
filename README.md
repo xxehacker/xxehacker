@@ -1,6 +1,7 @@
  <div style="width:100%;height:0;padding-bottom:45%;position:relative;">
 <img src="https://giphy.com/embed/ohONS2y8GTDoI" href="https://github.com/secureaxom" alt="SecureAxom"  width="100%" height="100%"/><br> 
-  
+ </div>
+ <div align="center" width="50%">
 ## Hey 👋, I'm Mridupawan Bordoloi
 
 <h3> 📣 Need to contact me? Find me here: <br/> </h3>
