@@ -95,7 +95,7 @@
 <a href="https://www.linux.org/">
     <img src="https://img.shields.io/badge/LINUX-black?style=for-the-badge&logo=linux&logoColor=yellow">
   </a>
-<a href="microsoft.com">
+<a href="https://microsoft.com">
     <img src="https://img.shields.io/badge/WINDOWS-blue?style=for-the-badge&logo=windows&logoColor=white">
   </a>
 
