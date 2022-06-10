@@ -28,11 +28,10 @@
 - 💬  Ask me about anything tech related, I am happy to help.
 - 📝  Checkout my [resume]
 - 🎉  Fun-Fact: I Think I Am Most Powerful Hacker In The World.
-
 <br>
 <br>
-
-<h2 align="center" style="color="red";> Languages & Tools 👨‍💻 </h2>
+<hr>
+<h2 align="center" style="color="red";>👨‍💻 Languages & Tools 👨‍💻 </h2>
 
 
 <p align="center">
