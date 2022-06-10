@@ -33,7 +33,7 @@
 <br>
 
 
-<h2 align="center" style="color="red";> 🤖 Skills & Tools 🤖 </h2>
+<h2 align="center" style="color="red";>👨‍💻 Languages & Tools 👨‍💻 </h2>
 
 
 <p align="center">
