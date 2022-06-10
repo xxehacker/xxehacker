@@ -101,7 +101,7 @@
 <br>
    <h2 align="center"> My Projects </h2> 
     <p align="center">
-     <a href="https://github.com/SecureAxom/ipinfoca>
+     <a href="https://github.com/SecureAxom/ipinfoca">
           <img src="https://img.shields.io/badge/ipinfoca-cyan?style=for-the-badge&logo=linux&logoColor=black">                
      </a>
   </p>                                                                                                
