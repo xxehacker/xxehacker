@@ -26,7 +26,6 @@
 - 🌱  I’m currently learning Bash Script and Python.
 - 👨🏻‍💻  Most of my projects are available on [Github](https://github.com/SecureAxom?tab=repositories). 
 - 💬  Ask me about anything tech related, I am happy to help.
-<!--- - 📫  Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/Mridupawan503/).  -->
 - 📝  Checkout my [resume]
 - 🎉  Fun-Fact: I Think I Am Most Powerful Hacker In The World.
 
