@@ -8,8 +8,8 @@
   <a href="mailto:mridupawan503@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
   <a href="https://instagram.com/mridupawan503"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://linkedin.com/in/#"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/mridupawan503"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://facebook.com/mridupawan503"><img src="https://img.shields.io/badge/facebook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://twitter.com/"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://facebook.com/"><img src="https://img.shields.io/badge/facebook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white"/></a> 
 </p>
 <p>
 <h4>My Name Is Mridupawan Bordoloi And I’m A Ethical Hacker & Frontend Web Developer. I’m From Assam, Living In Gohpur And Currently Focus On Learning Hacking.</h4>
@@ -26,7 +26,7 @@
 - 🌱  I’m currently learning Bash Script and Python.
 - 👨🏻‍💻  Most of my projects are available on [Github](https://github.com/SecureAxom?tab=repositories). 
 - 💬  Ask me about anything tech related, I am happy to help.
-- 📫  Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/Mridupawan503/). 
+<!--- - 📫  Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/Mridupawan503/).  -->
 - 📝  Checkout my [resume]
 - 🎉  Fun-Fact: I Think I Am Most Powerful Hacker In The World.
 
