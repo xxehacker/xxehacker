@@ -104,7 +104,7 @@
    <h2 align="center"> My Projects </h2> 
     <p align="center">
      <a href="https://github.com/secureaxom/reconcat>
-          <img src="https://img.shields.io/badge/RECONCAT-red?style=for-the-badge&logo=linux&logoColor=black">                
+          <img src="https://img.shields.io/badge/RECONCAT-red?style=for-the-badge&logo=linux&logoColor=white">                
      </a>
   </p>                                                                                                
                                                                                  
