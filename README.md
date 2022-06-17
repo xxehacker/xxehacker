@@ -104,6 +104,13 @@
      <a href="https://github.com/SecureAxom/ipinfoca">
           <img src="https://img.shields.io/badge/ipinfoca-cyan?style=for-the-badge&logo=linux&logoColor=black">                
      </a>
+                                                                                                             
+     <a href="https://github.com/SecureAxom/ReconCat">
+          <img src="https://img.shields.io/badge/ReconCat-red?style=for-the-badge&logo=git&logoColor=black">                
+     </a>
+     <a href="https://github.com/SecureAxom/Strike">
+          <img src="https://img.shields.io/badge/Strike-green?style=for-the-badge&logo=ubuntu&logoColor=black">                
+     </a>
   </p>                                                                                                
                                                                                  
                                                                                                          
