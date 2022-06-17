@@ -100,18 +100,42 @@
 </p>
 <br>
    <h2 align="center"> My Projects </h2> 
-    <p align="center">
+<!--     <p align="center">
      <a href="https://github.com/SecureAxom/ipinfoca">
           <img src="https://img.shields.io/badge/ipinfoca-cyan?style=for-the-badge&logo=linux&logoColor=black">                
      </a>
      </p>                                                                                                    
-     
+
      <p><a href="https://github.com/SecureAxom/ReconCat">
           <img src="https://img.shields.io/badge/ReconCat-red?style=for-the-badge&logo=git&logoColor=black">                
       </a></p>
     <p> <a href="https://github.com/SecureAxom/Strike">
           <img src="https://img.shields.io/badge/Strike-green?style=for-the-badge&logo=ubuntu&logoColor=black">                
-     </a></p>
-                                                                                                  
-                                                                                 
+     </a></p>      -->
+<div>
+		<table align="center">
+			<thead>
+				<tr>
+				<a href="https://github.com/SecureAxom/ipinfoca">
+          <img src="https://img.shields.io/badge/ipinfoca-cyan?style=for-the-badge&logo=linux&logoColor=black">                
+     		</a>
+     		</tr>
+     		<tr>
+     			<a href="https://github.com/SecureAxom/ReconCat">
+          <img src="https://img.shields.io/badge/ReconCat-red?style=for-the-badge&logo=git&logoColor=black">                
+      		</a>
+     		</tr>
+     		<tr>
+     			<a href="https://github.com/SecureAxom/Strike">
+          <img src="https://img.shields.io/badge/Strike-green?style=for-the-badge&logo=ubuntu&logoColor=black">                
+     			</a>
+     		</tr>
+
+			</thead>
+		</table>
+	</div>
+                                                                                                              
+                                                                                                              
+                                                                                                              
+                                                                                                              
                                                                                                          
