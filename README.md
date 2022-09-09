@@ -17,7 +17,7 @@
 <br/>
 </div>
 <hr></hr>
-<img align="right" alt="GIF" src="https://github.com/secureaxom/secureaxom/blob/main/hacker.gif?raw=true" width="450" height="320" />
+<img align="right" alt="GIF" src="#" width="450" height="320" />
   
 ### 🧐 More About Me:
 
