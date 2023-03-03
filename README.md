@@ -5,14 +5,14 @@
  <h1> Hey Hacker's 👋, I'm Mridupawan Bordoloi </h1>
 
 <h3> 📲 Find Me Here: <br/> </h3>
-  <a href="mailto:mridupawan503@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
-  <a href="https://instagram.com/mridupawan503"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:#"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://linkedin.com/in/#"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://facebook.com/"><img src="https://img.shields.io/badge/facebook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white"/></a> 
 </p>
 <p>
-<h4>My Name Is Mridupawan Bordoloi And I’m A Ethical Hacker & Frontend Web Developer. Currently Focus On Learning Hacking.</h4>
+<h4> I'm XXEHACKEE And I’m A Ethical Hacker & Frontend Web Developer. Currently Focus On Learning Hacking.</h4>
 <br/>
 <br/>
 </div>
