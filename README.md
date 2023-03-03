@@ -12,7 +12,7 @@
   <a href="https://facebook.com/"><img src="https://img.shields.io/badge/facebook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white"/></a> 
 </p>
 <p>
-<h4> I'm XXEHACKEE And I’m A Ethical Hacker & Frontend Web Developer. Currently Focus On Learning Hacking.</h4>
+<h4> I'm XxehackeR And I’m A Ethical Hacker & Frontend Web Developer. Currently Focus On Learning Hacking.</h4>
 <br/>
 <br/>
 </div>
