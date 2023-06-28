@@ -24,7 +24,7 @@
 - 🔭  I’m currently working on **Hacking and Automation** 
 - 🤝  I’m looking to collaborate on making hardware projects with Raspberry Pi or Arduino.
 - 🌱  I’m currently learning Bash Script and Python.
-- 👨🏻‍💻  Most of my projects are available on [Github](https://github.com/XxehackeR=repositories). 
+- 👨🏻‍💻  Most of my projects are available on [Github](https://github.com/Xxehacker). 
 - 💬  Ask me about anything tech related, I am happy to help.
 - 📝  Checkout my [resume]
 - 🎉  Fun-Fact: I Think I Am Most Powerful Hacker In The World.
