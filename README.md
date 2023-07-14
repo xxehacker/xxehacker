@@ -12,7 +12,7 @@
   <a href="https://facebook.com/"><img src="https://img.shields.io/badge/facebook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white"/></a> 
 </p>
 <p>
-<h4> I'm Mridupawan Bordoloi & I’m A Ethical Hacker & Frontend Web Developer. Currently Focus On Learning New Technologies.</h4>
+-- I am Mridupawan Bordoloi, a dedicated Ethical Hacker and Frontend Web Developer. I have a strong passion for exploring and embracing new technologies, constantly pushing the boundaries of my knowledge and expertise. --
 <br/>
 <br/>
 </div>
