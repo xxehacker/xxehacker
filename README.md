@@ -2,7 +2,7 @@
 <img src="https://github.com/SecureAxom/SecureAxom/blob/main/matrix.gif" href="https://github.com/secureaxom" alt="SecureAxom"  width="100%" height="100%"/><br> 
  </div>
  <div align="center" width="50%">
- <h1> Hey Hacker's 👋, I'm XxehackeR </h1>
+ <h1> Hey Programmer's 👋, I'm Mridupawan Bordoloi </h1>
 
 <h3> 📲 Find Me Here: <br/> </h3>
   <a href="mailto:#"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
@@ -12,7 +12,7 @@
   <a href="https://facebook.com/"><img src="https://img.shields.io/badge/facebook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white"/></a> 
 </p>
 <p>
-<h4> I'm XxehackeR And I’m A Ethical Hacker & Frontend Web Developer. Currently Focus On Learning Hacking.</h4>
+<h4> I'm Mridupawan Bordoloi & I’m A Ethical Hacker & Frontend Web Developer. Currently Focus On Learning New Technologies.</h4>
 <br/>
 <br/>
 </div>
@@ -26,8 +26,7 @@
 - 🌱  I’m currently learning Bash Script and Python.
 - 👨🏻‍💻  Most of my projects are available on [Github](https://github.com/Xxehacker). 
 - 💬  Ask me about anything tech related, I am happy to help.
-- 📝  Checkout my [resume]
-- 🎉  Fun-Fact: I Think I Am Most Powerful Hacker In The World.
+- 📝  Checkout my : Comming Soon
 <br>
 <br>
 <hr>
@@ -101,13 +100,13 @@
 <br>
    <h2 align="center"> My Projects </h2> 
      <p align="center">
-     <a href="https://github.com/SecureAxom/ipinfoca">
+     <a href="https://github.com/xxehacker/ipinfoca">
           <img src="https://img.shields.io/badge/ipinfoca-cyan?style=for-the-badge&logo=linux&logoColor=black">                
      </a>                                                                                                       
-     <a href="https://github.com/SecureAxom/Strike">
+     <a href="https://github.com/xxehacker/Strike">
           <img src="https://img.shields.io/badge/Strike-green?style=for-the-badge&logo=ubuntu&logoColor=black">                
      </a>
-	 <a href="https://github.com/SecureAxom/ReconCat">
+	 <a href="https://github.com/xxehacker/ReconCat">
           <img src="https://img.shields.io/badge/ReconCat-red?style=for-the-badge&logo=git&logoColor=black">                
       </a> 
      
