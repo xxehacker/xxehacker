@@ -1,5 +1,5 @@
  <div style="width:100%;height:0;padding-bottom:45%;position:relative;">
-<img src="https://github.com/SecureAxom/SecureAxom/blob/main/matrix.gif" href="https://github.com/secureaxom" alt="SecureAxom"  width="100%" height="100%"/><br> 
+<img src="https://giphy.com/embed/115BJle6N2Av0A" href="https://github.com/secureaxom" alt="SecureAxom"  width="100%" height="100%"/><br> 
  </div>
  <div align="left" width="50%">
  <h1> Hey Programmer's 👋, I'm Mridupawan Bordoloi </h1>
@@ -8,6 +8,7 @@
 <br/>
 <br/>
 </div>
+<hr>
 
 # 💫 About Me:
 🔭 I’m currently working on Hacking and Automation<br>🤝 I’m looking to collaborate on making hardware projects with Raspberry Pi or Arduino.<br>🌱 I’m currently learning Bash Script and Python.<br>👨🏻‍💻 Most of my projects are available on Github.<br>💬 Ask me about anything tech related, I am happy to help.
