@@ -2,9 +2,9 @@
 <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" href="https://github.com/secureaxom" alt="SecureAxom"  width="100%" height="80%"/><br> 
  </div>
  <div align="left" width="50%">
- <h2>Hello I'm Mridupawan Bordoloi </h2>
+ <h2>Hello, I'm Mridupawan Bordoloi </h2>
 <p>
-<h4>I I am mridupawan bordoloi, a dedicated ethical hacker and frontend web developer. I have a strong passion for exploring and embracing new technologies, constantly pushing the boundaries of my knowledge and expertise.</h4>
+<h4>I am mridupawan bordoloi, a dedicated ethical hacker and frontend web developer. I have a strong passion for exploring and embracing new technologies, constantly pushing the boundaries of my knowledge and expertise.</h4>
 </div>
 <hr>
 
