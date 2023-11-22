@@ -5,8 +5,6 @@
  <h2>Hello I'm Mridupawan Bordoloi </h2>
 <p>
 <h4>I I am mridupawan bordoloi, a dedicated ethical hacker and frontend web developer. I have a strong passion for exploring and embracing new technologies, constantly pushing the boundaries of my knowledge and expertise.</h4>
-<br/>
-<br/>
 </div>
 <hr>
 
