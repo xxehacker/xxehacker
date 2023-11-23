@@ -37,7 +37,6 @@
 <a href="https://www.json.org/json-en.html">
     <img src="https://img.shields.io/badge/Assetfinder-Amass-000000?style=for-the-badge&logo=go&logoColor=white">
   </a>
-<br>
  <a href="#">
    <img src="https://img.shields.io/badge/Bash-brightgreen?style=for-the-badge&logo=linux&logoColor=black">
  </a>
