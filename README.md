@@ -22,6 +22,21 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=xxehacker&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=xxehacker&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+<br>
+   <h2 align="center"> My Projects </h2> 
+     <p align="center">
+     <a href="https://github.com/xxehacker/ipinfoca">
+          <img src="https://img.shields.io/badge/ipinfoca-cyan?style=for-the-badge&logo=linux&logoColor=black">                
+     </a>                                                                                                       
+     <a href="https://github.com/xxehacker/Strike">
+          <img src="https://img.shields.io/badge/Strike-green?style=for-the-badge&logo=ubuntu&logoColor=black">                
+     </a>
+	 <a href="https://github.com/xxehacker/ReconCat">
+          <img src="https://img.shields.io/badge/ReconCat-red?style=for-the-badge&logo=git&logoColor=black">                
+      </a> 
+     
+</p>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=xxehacker&icon=0&color=6)](https://visitcount.itsvg.in)
 
