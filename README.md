@@ -23,8 +23,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=xxehacker&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 <br>
-   <h2 align="center"> My Projects </h2> 
-     <p align="center">
+   <h2> My Projects </h2> 
+     <p>
      <a href="https://github.com/xxehacker/ipinfoca">
           <img src="https://img.shields.io/badge/ipinfoca-cyan?style=for-the-badge&logo=linux&logoColor=black">                
      </a>                                                                                                       
