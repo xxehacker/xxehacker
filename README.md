@@ -24,7 +24,7 @@
 <p>
   <a href="https://portswigger.net/burp">
     <img src="https://img.shields.io/badge/burp Suite-00599C?style=for-the-badge&logo=java&logoColor=white">
-  </a>q
+  </a>
    <a href="https://www.metasploit.com/">
     <img src="https://img.shields.io/badge/Metasploit-61DAFB?&style=for-the-badge&logo=Meta&logoColor=121212">
   </a>
