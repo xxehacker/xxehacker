@@ -22,7 +22,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=xxehacker&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=xxehacker&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<br>
    <h2> My Projects </h2> 
      <p>
      <a href="https://github.com/xxehacker/ipinfoca">
