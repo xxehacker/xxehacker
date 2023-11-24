@@ -9,7 +9,7 @@
 <hr>
 
 ## 💫 About Me:
-🔭 I’m currently working on Hacking and Automation<br>🤝 I’m looking to collaborate on making hardware projects with Raspberry Pi or Arduino.<br>🌱 I’m currently learning Bash Script and Python.<br>👨🏻‍💻 Most of my projects are available on Github.<br>💬 Ask me about anything tech related, I am happy to help.
+🔭 I’m currently working on Hacking and Automation<br>🤝 I’m looking to collaborate on making hardware projects with Raspberry Pi or Arduino.<br>🌱 I’m currently learning Bash Script and Python.<br>👨🏻‍💻 Most of my projects are available on Github.<br>💬 Ask me about anything tech related, I am happy to help.<br> Check out my Resume [Link](https://drive.google.com/file/d/1CvoDTbZiigMabJm5Ux9LgfvB3kV6UK-y/view?usp=drive_link)
 
 
 ## 🌐 Socials:
