@@ -1,7 +1,7 @@
 <div style="width:100%;height:0;padding-bottom:45%;position:relative;">
 <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" href="https://github.com/secureaxom" alt="SecureAxom" width="100%" height="80%"/><br>
 </div>
-<div align="center" width="50%">
+<div align="left" width="50%">
 <h2>Hello, I'm Mridupawan Bordoloi </h2>
 <p>
 <h4>A dedicated ethical hacker and frontend web developer. I have a strong passion for exploring and embracing new technologies, constantly pushing the boundaries of my knowledge and expertise.</h4>
@@ -20,7 +20,7 @@
 
 ## 💻 CyberSec Tools:
 
-<p align="center">
+<p align="left">
 <a href="https://portswigger.net/burp">
 <img src="https://img.shields.io/badge/burp Suite-00599C?style=for-the-badge&logo=java&logoColor=white">
 </a>
@@ -65,7 +65,7 @@
 
 ## 💻 My Projects:
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/xxehacker/ipinfoca">
 <img src="https://img.shields.io/badge/ipinfoca-cyan?style=for-the-badge&logo=linux&logoColor=black">
 </a>
