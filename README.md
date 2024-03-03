@@ -1,91 +1,84 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" href="https://github.com/secureaxom" alt="SecureAxom" width="100%" height="80%"/><br> 
-</p>
-
-<h1 align="center">Hello, I'm Mridupawan Bordoloi</h1>
-<h2 align="center">A dedicated ethical hacker and frontend web developer. I have a strong passion for exploring and embracing new technologies, constantly pushing the boundaries of my knowledge and expertise.</h2>
-
----
+<div style="width:100%;height:0;padding-bottom:45%;position:relative;">
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" href="https://github.com/secureaxom" alt="SecureAxom" width="100%" height="80%"/><br>
+</div>
+<div align="center" width="50%">
+<h2>Hello, I'm Mridupawan Bordoloi </h2>
+<p>
+<h4>A dedicated ethical hacker and frontend web developer. I have a strong passion for exploring and embracing new technologies, constantly pushing the boundaries of my knowledge and expertise.</h4>
+</div>
+<hr>
 
 ## 💫 About Me:
-<p align="center">
-  🔭 I’m currently working on Hacking and Automation<br>
-  🤝 I’m looking to collaborate on making hardware projects with Raspberry Pi or Arduino.<br>
-  🌱 I’m currently learning Bash Script and Python.<br>
-  👨🏻‍💻 Most of my projects are available on Github.<br>
-  💬 Ask me about anything tech-related; I am happy to help.<br>
-  ➡️ Check out my Resume [Link](https://drive.google.com/file/d/1CvoDTbZiigMabJm5Ux9LgfvB3kV6UK-y/view?usp=drive_link)
-</p>
+🔭 I’m currently working on Hacking and Automation<br>🤝 I’m looking to collaborate on making hardware projects with Raspberry Pi or Arduino.<br>🌱 I’m currently learning Bash Script and Python.<br>👨🏻‍💻 Most of my projects are available on Github.<br>💬 Ask me about anything tech related, I am happy to help.<br>➡️ Check out my Resume [Link](https://drive.google.com/file/d/1CvoDTbZiigMabJm5Ux9LgfvB3kV6UK-y/view?usp=drive_link)
+
 
 ## 🌐 Socials:
-<p align="center">
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mridupawan503) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mridupawan-bordoloi-xxehacker) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@xxehacker) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/XxeHacker0x1) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@xxehacker) 
-</p>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mridupawan503) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mridupawan-bordoloi-xxehacker) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@xxehacker) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/XxeHacker0x1) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@xxehacker)
 
 ## 💻 Tech Stack:
-<p align="center">
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Linode](https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-</p>
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Linode](https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 ## 💻 CyberSec Tools:
+
 <p align="center">
-  <a href="https://portswigger.net/burp">
-    <img src="https://img.shields.io/badge/burp Suite-00599C?style=for-the-badge&logo=java&logoColor=white">
-  </a>
-  <a href="https://www.metasploit.com/">
-    <img src="https://img.shields.io/badge/Metasploit-61DAFB?&style=for-the-badge&logo=Meta&logoColor=121212">
-  </a>
-  <a href="https://www.sqlite.org/index.html">
-    <img src="https://img.shields.io/badge/Sqlmap-003B57?&style=for-the-badge&logo=mysql&logoColor=white">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Subfinder-httpx-323330?style=for-the-badge&logo=go&logoColor=F7DF1E">
-  </a>
-  <a href="https://www.json.org/json-en.html">
-    <img src="https://img.shields.io/badge/Assetfinder-Amass-000000?style=for-the-badge&logo=go&logoColor=white">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Bash-brightgreen?style=for-the-badge&logo=linux&logoColor=black">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/FISH-green?style=for-the-badge&logo=shell&logoColor=black">
-  </a>
-  <a href="https://git-scm.com/">
-    <img src="https://img.shields.io/badge/github-F05032?&style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="https://www.apple.com/in/macos/monterey/">
-    <img src="https://img.shields.io/badge/MacOS-000000?&style=for-the-badge&logo=Apple&logoColor=white">
-  </a>
-  <a href="https://www.linux.org/">
-    <img src="https://img.shields.io/badge/LINUX-black?style=for-the-badge&logo=linux&logoColor=yellow">
-  </a>
-  <a href="https://microsoft.com">
-    <img src="https://img.shields.io/badge/WINDOWS-blue?style=for-the-badge&logo=windows&logoColor=white">
-  </a>
+<a href="https://portswigger.net/burp">
+<img src="https://img.shields.io/badge/burp Suite-00599C?style=for-the-badge&logo=java&logoColor=white">
+</a>
+<a href="https://www.metasploit.com/">
+<img src="https://img.shields.io/badge/Metasploit-61DAFB?&style=for-the-badge&logo=Meta&logoColor=121212">
+</a>
+<a href="https://www.sqlite.org/index.html">
+<img src="https://img.shields.io/badge/Sqlmap-003B57?&style=for-the-badge&logo=mysql&logoColor=white">
+</a>
+<a href="#">
+<img src="https://img.shields.io/badge/Subfinder-httpx-323330?style=for-the-badge&logo=go&logoColor=F7DF1E">
+</a>
+<a href="https://www.json.org/json-en.html">
+<img src="https://img.shields.io/badge/Assetfinder-Amass-000000?style=for-the-badge&logo=go&logoColor=white">
+</a>
+<a href="#">
+<img src="https://img.shields.io/badge/Bash-brightgreen?style=for-the-badge&logo=linux&logoColor=black">
+</a>
+<a href="#"></a>
+<img src="https://img.shields.io/badge/FISH-green?style=for-the-badge&logo=shell&logoColor=black">
+</a>
+<a href="https://git-scm.com/">
+<img src="https://img.shields.io/badge/github-F05032?&style=for-the-badge&logo=github&logoColor=white">
+</a>
+<a href="https://www.apple.com/in/macos/monterey/">
+<img src="https://img.shields.io/badge/MacOS-000000?&style=for-the-badge&logo=Apple&logoColor=white">
+</a>
+<a href="https://www.linux.org/">
+<img src="https://img.shields.io/badge/LINUX-black?style=for-the-badge&logo=linux&logoColor=yellow">
+</a>
+<a href="https://microsoft.com">
+<img src="https://img.shields.io/badge/WINDOWS-blue?style=for-the-badge&logo=windows&logoColor=white">
+</a>
 </p>
+
+
 
 ## 📊 GitHub Stats:
-<p align="center">
-  ![](https://github-readme-stats.vercel.app/api?username=xxehacker&theme=merko&hide_border=false&include_all_commits=true&count_private=false)<br/>
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=xxehacker&theme=merko&hide_border=false)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=xxehacker&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-</p>
+![](https://github-readme-stats.vercel.app/api?username=xxehacker&theme=merko&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=xxehacker&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=xxehacker&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 💻 My Projects:
+
 <p align="center">
-  <a href="https://github.com/xxehacker/ipinfoca">
-    <img src="https://img.shields.io/badge/ipinfoca-cyan?style=for-the-badge&logo=linux&logoColor=black">                
-  </a>                                                                                                       
-  <a href="https://github.com/xxehacker/Strike">
-    <img src="https://img.shields.io/badge/Strike-green?style=for-the-badge&logo=ubuntu&logoColor=black">                
-  </a>
-  <a href="https://github.com/xxehacker/ReconCat">
-    <img src="https://img.shields.io/badge/ReconCat-red?style=for-the-badge&logo=git&logoColor=black">                
-  </a> 
+<a href="https://github.com/xxehacker/ipinfoca">
+<img src="https://img.shields.io/badge/ipinfoca-cyan?style=for-the-badge&logo=linux&logoColor=black">
+</a>
+<a href="https://github.com/xxehacker/Strike">
+<img src="https://img.shields.io/badge/Strike-green?style=for-the-badge&logo=ubuntu&logoColor=black">
+</a>
+<a href="https://github.com/xxehacker/ReconCat">
+<img src="https://img.shields.io/badge/ReconCat-red?style=for-the-badge&logo=git&logoColor=black">
+</a>
+
 </p>
 
 ---
-
 [![](https://visitcount.itsvg.in/api?id=xxehacker&icon=0&color=6)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
