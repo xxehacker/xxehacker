@@ -77,7 +77,7 @@
 
 <br>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xxehacker&theme=dark" alt="xxehacker's Activity Graph" style="max-width: 100%; height: auto; border-radius: 10px;" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xxehacker&bg_color=000000&color=0617fe&line=24fd08&point=f50505&area=true&hide_border=true" alt="xxehacker's Activity Graph" style="max-width: 100%; height: auto; border-radius: 10px;" />
 </div>
 
 
