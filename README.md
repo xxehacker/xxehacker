@@ -58,25 +58,21 @@
 
 
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=xxehacker&theme=merko&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=xxehacker&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=xxehacker&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 💻 My Projects:
-
-<p align="left">
-<a href="https://github.com/xxehacker/ipinfoca">
-<img src="https://img.shields.io/badge/ipinfoca-cyan?style=for-the-badge&logo=linux&logoColor=black">
-</a>
-<a href="https://github.com/xxehacker/Strike">
-<img src="https://img.shields.io/badge/Strike-green?style=for-the-badge&logo=ubuntu&logoColor=black">
-</a>
-<a href="https://github.com/xxehacker/ReconCat">
-<img src="https://img.shields.io/badge/ReconCat-red?style=for-the-badge&logo=git&logoColor=black">
-</a>
-
-</p>
+<div style="display: flex; flex-direction: column; align-items: center; gap: 20px; padding: 20px;">
+    <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
+        <img src="https://github-readme-stats.vercel.app/api?username=xxehacker&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true" alt="xxehacker's GitHub Stats" style="max-width: 100%; height: auto;" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=xxehacker&theme=midnight-purple&hide_border=false" alt="xxehacker's GitHub Streak" style="max-width: 100%; height: auto;" />
+    </div>
+    <div style="display: flex; justify-content: center; margin-top: 20px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxehacker&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact&langs_count=10" alt="xxehacker's Top Languages" style="max-width: 100%; height: auto;" />
+    </div>
+    <div style="display: flex; justify-content: center; margin-top: 20px;">
+        <img src="https://github-profile-trophy.vercel.app/?username=xxehacker&theme=midnight-purple" alt="xxehacker's GitHub Trophies" style="max-width: 100%; height: auto;" />
+    </div>
+    <div style="display: flex; justify-content: center; margin-top: 20px;gap: 2px;">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=xxehacker&theme=dark" alt="xxehacker's Activity Graph" style="max-width: 100%; height: auto; border-radius: 10px;" />
+    </div>
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=xxehacker&icon=0&color=6)](https://visitcount.itsvg.in)
