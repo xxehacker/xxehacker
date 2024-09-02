@@ -70,11 +70,12 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxehacker&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact&langs_count=10" alt="xxehacker's Top Languages" style="max-width: 100%; height: auto;" />
 </div>
-
+<br>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=xxehacker&theme=midnight-purple" alt="xxehacker's GitHub Trophies" style="max-width: 100%; height: auto;" />
 </div>
 
+<br>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=xxehacker&theme=dark" alt="xxehacker's Activity Graph" style="max-width: 100%; height: auto; border-radius: 10px;" />
 </div>
