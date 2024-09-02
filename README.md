@@ -56,30 +56,29 @@
 </a>
 </p>
 
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xxehacker&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true" alt="xxehacker's GitHub Stats" style="max-width: 100%; height: auto;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xxehacker&theme=midnight-purple&hide_border=false" alt="xxehacker's GitHub Streak" style="max-width: 100%; height: auto;" />
-</div>
-
-## Top Languages
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=xxehacker&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true" alt="xxehacker's GitHub Stats" style="max-width: 100%; height: auto;" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=xxehacker&theme=midnight-purple&hide_border=false" alt="xxehacker's GitHub Streak" style="max-width: 100%; height: auto;" />
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxehacker&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact&langs_count=10" alt="xxehacker's Top Languages" style="max-width: 100%; height: auto;" />
 </div>
 
-## GitHub Trophies
-
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=xxehacker&theme=midnight-purple" alt="xxehacker's GitHub Trophies" style="max-width: 100%; height: auto;" />
 </div>
 
-## Activity Graph
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=xxehacker&theme=dark" alt="xxehacker's Activity Graph" style="max-width: 100%; height: auto; border-radius: 10px;" />
 </div>
+
 
 
 ---
