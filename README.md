@@ -9,7 +9,7 @@
 <hr>
 
 ## 💫 About Me:
-🔭 🔭 I’m currently diving into the MERN stack and cyber security. <br>
+🔭 I’m currently diving into the MERN stack and cyber security. <br>
 👨🏻‍💻 I’m working on frontend development and bug hunting.<br>
 🤝 I’m open to collaborating on hardware projects with Raspberry Pi or Arduino.<br>
 💬 Feel free to ask me anything tech-related; I’m happy to help!<br>
