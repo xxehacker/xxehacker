@@ -2,14 +2,18 @@
 <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" href="https://github.com/secureaxom" alt="SecureAxom" width="100%" height="80%"/><br>
 </div>
 <div align="left" width="50%">
-<h2>Hello, I'm Mridupawan Bordoloi </h2>
+<h2>Hello All, I'm Mridupawan Bordoloi </h2>
 <p>
 <h4>A dedicated ethical hacker and frontend web developer. I have a strong passion for exploring and embracing new technologies, constantly pushing the boundaries of my knowledge and expertise.</h4>
 </div>
 <hr>
 
 ## 💫 About Me:
-🔭 I’m currently working on Hacking and Automation<br>🤝 I’m looking to collaborate on making hardware projects with Raspberry Pi or Arduino.<br>🌱 I’m currently learning Bash Script and Python.<br>👨🏻‍💻 Most of my projects are available on Github.<br>💬 Ask me about anything tech related, I am happy to help.<br>➡️ Check out my Resume [Link](https://drive.google.com/file/d/1CvoDTbZiigMabJm5Ux9LgfvB3kV6UK-y/view?usp=drive_link)
+🔭 🔭 I’m currently diving into the MERN stack and cyber security.
+👨🏻‍💻 I’m working on frontend development and bug hunting.
+🤝 I’m open to collaborating on hardware projects with Raspberry Pi or Arduino.
+💬 Feel free to ask me anything tech-related; I’m happy to help!
+➡️ Check out my Resume [Link](https://drive.google.com/file/d/1CvoDTbZiigMabJm5Ux9LgfvB3kV6UK-y/view?usp=drive_link)
 
 
 ## 🌐 Socials:
