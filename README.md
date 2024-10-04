@@ -4,7 +4,7 @@
 <div align="left" width="50%">
 <h2>Hello All, I'm Mridupawan Bordoloi </h2>
 <p>
-<h4>A dedicated ethical hacker and frontend web developer. I have a strong passion for exploring and embracing new technologies, constantly pushing the boundaries of my knowledge and expertise.</h4>
+<h4>Mridupawan Bordoloi (XxehackeR) | Frontend Developer & Ethical Hacker from Assam, India. Skilled in React.js, Tailwind CSS, and JavaScript, with a keen interest in secure coding and MERN stack development. 💻 Actively participating in bug bounty programs to uncover vulnerabilities and enhance security across multiple platforms. 🚀 Join me as I share my projects and insights into the world of web development and cybersecurity!</h4>
 </div>
 <hr>
 
