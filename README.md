@@ -96,7 +96,7 @@ In the realm of cybersecurity, I actively engage in bug hunting and have success
       <img src="https://github-readme-stats.vercel.app/api?username=xxehacker&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true" alt="xxehacker's GitHub Stats" style="max-width: 100%; height: auto;" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=xxehacker&theme=midnight-purple&hide_border=false" alt="xxehacker's GitHub Streak" style="max-width: 100%; height: auto;" />
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=xxehacker&theme=midnight-purple&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&hide_current_streak=true" alt="xxehacker's GitHub Streak" style="max-width: 100%; height: auto;" />
     </td>
   </tr>
 </table>
@@ -118,5 +118,3 @@ In the realm of cybersecurity, I actively engage in bug hunting and have success
 
 ---
 [![](https://visitcount.itsvg.in/api?id=xxehacker&icon=0&color=6)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
