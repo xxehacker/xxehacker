@@ -5,11 +5,11 @@
 <h2>Hello All, I'm Mridupawan Bordoloi </h2>
 <p>
 <h5>Hi, I’m Mridupawan Bordoloi, also known as XxehackeR. I’m currently learning Full Stack (MERN) development with a strong foundation in cybersecurity. My journey began with an interest in cybersecurity, and though I’ve since shifted my focus to full stack development, I still bring a security-first approach to my work. Over time, I’ve built several frontend and backend projects, leveraging technologies like Python, JavaScript, React.js, Tailwind CSS, Node.js, Express.js, MongoDB, and GSAP to deliver high-quality applications.
-  
+<br>
 My passion for cybersecurity remains strong, and I actively engage in bug hunting, where I’ve successfully identified vulnerabilities across various colleges, organizations, and even IndiaMART.com, a leading B2B platform. Notably, I discovered and reported a security issue on my own college’s website, contributing to a more secure digital environment. You can find my projects, contributions, and code on GitHub: github.com/xxehacker.
-
+<br>
 Outside the tech world, I’m also a sports enthusiast, skilled in football, cricket, and badminton—sports that keep me energized and disciplined. Whether I’m coding, hunting for bugs, or playing sports, I’m all about pushing limits and striving for excellence.
-
+<br>
 Let’s connect and explore opportunities to collaborate on tech, cybersecurity, or innovative ideas!</h5>
 </div>
 <hr>
