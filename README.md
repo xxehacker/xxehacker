@@ -15,7 +15,7 @@ In the realm of cybersecurity, I actively engage in bug hunting and have success
 👨🏻‍💻 I’m working on full stack development and bug hunting.<br>
 🤝 I’m open to collaborating on hardware projects with Raspberry Pi or Arduino.<br>
 💬 Feel free to ask me anything tech-related; I’m happy to help!<br>
-➡️ Check out my Resume [Link](https://drive.google.com/file/d/1CvoDTbZiigMabJm5Ux9LgfvB3kV6UK-y/view?usp=drive_link)
+➡️ Check out my Resume [Link](https://drive.google.com/file/d/1YWF6hRIu2TrOZeaU8C_SFVaJI0aaxoKd/view?usp=drive_link)
 
 
 ## 🌐 Socials:
