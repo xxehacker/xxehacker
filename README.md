@@ -21,7 +21,7 @@ In the realm of cybersecurity, I actively engage in bug hunting and have success
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mridupawan0x1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mridupawan-bordoloi-xxehacker) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@xxehacker) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/XxeHacker0x1) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@xxehacker)
 
-## 💻 Tech Stack:
+## 💻 Tech Stack (Full Stack Web Dev):
 
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/TR/css3-roadmap/)
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
@@ -52,7 +52,7 @@ In the realm of cybersecurity, I actively engage in bug hunting and have success
 [![ShadCN UI](https://img.shields.io/badge/shadcn%20UI-%2340E0D0.svg?style=for-the-badge&logo=shadcn&logoColor=white)](https://shadcn.dev/)
 
 
-## 💻 CyberSec Tools:
+## 💻 CyberSec Tools (Cyber Security):
 
 <p align="left">
 <a href="https://portswigger.net/burp">
