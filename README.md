@@ -95,19 +95,19 @@ In the realm of cybersecurity, I actively engage in bug hunting and have success
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=xxehacker&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true" alt="xxehacker's GitHub Stats" style="max-width: 100%; height: auto;" />
     </td>
-    <td>
+<!--     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com?user=xxehacker&theme=midnight-purple&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&hide_current_streak=true" alt="xxehacker's GitHub Streak" style="max-width: 100%; height: auto;" />
-    </td>
+    </td> -->
   </tr>
 </table>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxehacker&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact&langs_count=10" alt="xxehacker's Top Languages" style="max-width: 100%; height: auto;" />
-</div>
+</div> -->
 <br>
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=xxehacker&theme=midnight-purple" alt="xxehacker's GitHub Trophies" style="max-width: 100%; height: auto;" />
-</div>
+</div> -->
 
 <br>
 <div align="center">
