@@ -89,7 +89,7 @@ In the realm of cybersecurity, I actively engage in bug hunting and have success
 <img src="https://img.shields.io/badge/WINDOWS-blue?style=for-the-badge&logo=windows&logoColor=white">
 </a>
 </p>
-
+<br>
 <table>
   <tr>
     <td>
@@ -104,7 +104,6 @@ In the realm of cybersecurity, I actively engage in bug hunting and have success
 <!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxehacker&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact&langs_count=10" alt="xxehacker's Top Languages" style="max-width: 100%; height: auto;" />
 </div>  -->
-<br>
 <!-- <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=xxehacker&theme=midnight-purple" alt="xxehacker's GitHub Trophies" style="max-width: 100%; height: auto;" />
 </div> -->
