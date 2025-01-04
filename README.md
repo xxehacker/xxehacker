@@ -1,7 +1,7 @@
-<!-- <div style="width:100%;height:0;padding-bottom:45%;position:relative;">
-<img src="https://i.ibb.co/pvj5Tjv/gif.gif" href="https://github.com/xxehacker" alt="xxehacker" width="100%" height="30%"/><br>
+ <div style="width:100%;height:0;padding-bottom:45%;position:relative;">
+<img src="https://github.com/xxehacker/xxehacker/blob/main/hello%20world-1.png" href="https://github.com/xxehacker" alt="xxehacker" width="100%" height="30%"/><br>
 </div> 
-<div align="left" width="50%"> -->
+<div align="left" width="50%">
 <h2>Hello All, I'm Mridupawan Bordoloi </h2>
 <p>
 <h5> Hi 🤝, I’m Mridupawan Bordoloi, also known as XxehackeR. I’m currently learning Full Stack (MERN) development with a strong foundation in cybersecurity. My journey began with an interest in cybersecurity, and though I’ve since shifted my focus to full stack development, I still bring a security-first approach to everything I build. I have experience in both frontend and backend development, and I leverage technologies like Python, JavaScript, React.js, Tailwind CSS, Node.js, Express.js, MongoDB, and GSAP to create efficient and secure applications.
