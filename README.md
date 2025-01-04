@@ -1,5 +1,5 @@
  <div style="width:100%;height:0;padding-bottom:45%;position:relative;">
-<img src="https://github.com/xxehacker/xxehacker/blob/main/hello%20world-1.png" href="https://github.com/xxehacker" alt="xxehacker" width="100%" height="30%"/><br>
+<img src="https://github.com/xxehacker/xxehacker/blob/main/banner.png" href="https://github.com/xxehacker" alt="xxehacker" width="100%" height="30%"/><br>
 </div> 
 <div align="left" width="50%">
 <h2>Hello All, I'm Mridupawan Bordoloi </h2>
