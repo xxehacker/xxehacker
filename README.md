@@ -1,115 +1,208 @@
- <div style="width:100%;height:0;padding-bottom:45%;position:relative;">
-<img src="https://github.com/xxehacker/xxehacker/blob/main/banner2.png" href="https://github.com/xxehacker" alt="xxehacker" width="100%" height="30%"/><br>
-</div> 
-<div align="left" width="50%">
-<h2>Hello All, I'm Mridupawan Bordoloi </h2>
-<p>
-<h5> Hi 🤝, I’m Mridupawan Bordoloi, also known as XxehackeR. I’m currently learning Full Stack (MERN) development with a strong foundation in cybersecurity. My journey began with an interest in cybersecurity, and though I’ve since shifted my focus to full stack development, I still bring a security-first approach to everything I build. I have experience in both frontend and backend development, and I leverage technologies like Python, JavaScript, React.js, Tailwind CSS, Node.js, Express.js, MongoDB, and GSAP to create efficient and secure applications.
-<br><br>
-In the realm of cybersecurity, I actively engage in bug hunting and have successfully identified vulnerabilities across various colleges, organizations, and even IndiaMART.com, a leading B2B platform. I also discovered and reported a security issue on my own college’s website, contributing to a more secure digital environment.</h5>
+<div style="border: 2px solid #00FF00; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
+
+<!-- Name Banner -->
+<p align="center">
+  <a href="https://github.com/xxehacker">
+    <img src="https://github.com/xxehacker/xxehacker/blob/main/banner2.png?raw=true" alt="xxehacker" width="100%">
+  </a>
+</p>
+
+<!-- Follow Buttons -->
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=xxehacker&color=FFFFFF" alt="Profile Views"><img src="https://komarev.com/ghpvc/?username=xxehacker&color=FFFFFF" alt="Profile Views"></a>
+  <a href="https://twitter.com/xxehacker"><img src="https://img.shields.io/twitter/follow/xxehacker?label=Follow&style=social" alt="Twitter Follow"></a>
+</p>
+
 </div>
-<hr>
 
-## 💫 About Me:
-🔭 I’m currently diving into the MERN stack and cyber security. <br>
-👨🏻‍💻 I’m working on full stack development and bug hunting.<br>
-🤝 I’m open to collaborating on hardware projects with Raspberry Pi or Arduino.<br>
-💬 Feel free to ask me anything tech-related; I’m happy to help!<br>
-➡️ Check out my Resume [Link](https://drive.google.com/file/d/1pFEDg2Y5ttL_4THFueH64N_5MpkJmllj/view?usp=sharing)
+<div style="border: 2px solid #00FF00; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mridupawan0x1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mridupawan-bordoloi-xxehacker) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@xxehacker) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/XxeHacker0x1) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@xxehacker)
-
-## 💻 Tech Stack (Full Stack Web Dev):
-
-[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/TR/css3-roadmap/)
-[![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
-[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
-[![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
-[![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)](https://aka.ms/terminal)
-[![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://pages.github.com/)
-[![Linode](https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white)](https://www.linode.com/)
-[![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://www.netlify.com/)
-[![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-[![Chakra UI](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)](https://chakra-ui.com/)
-[![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
-[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
-[![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)](https://reactrouter.com/)
-[![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)](https://sass-lang.com/)
-[![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
-[![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)](https://wordpress.org/)
-[![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
-[![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![React Query](https://img.shields.io/badge/react_query-%23FF4154.svg?style=for-the-badge&logo=react-query&logoColor=white)](https://react-query.tanstack.com/)
-[![GSAP](https://img.shields.io/badge/gsap-%23242939.svg?style=for-the-badge&logo=gsap&logoColor=white)](https://greensock.com/gsap/)
-[![Framer Motion](https://img.shields.io/badge/framer_motion-%23F24E1E.svg?style=for-the-badge&logo=framer&logoColor=white)](https://www.framer.com/motion/)
-[![ShadCN UI](https://img.shields.io/badge/shadcn%20UI-%2340E0D0.svg?style=for-the-badge&logo=shadcn&logoColor=white)](https://shadcn.dev/)
+<!-- Who Am I -->
+<h2 align="center">
+  <img src="https://see.fontimg.com/api/rf5/rg9Rx/YmY1M2RjMTM1MTBhNGY0NGE5MDNkN2Y1OWMyMjUzMzMudHRm/V2hvIEFtIEkgPw/ananda-black-personal-use-regular.png?r=fs&h=85&w=1250&fg=16D90D&bg=060101&tb=1&s=68" width="200" alt="Who Am I">
+</h2>
 
 
-## 💻 CyberSec Tools (Cyber Security):
+<!-- Typing SVG -->
+<p align="center">
+  <a href="https://github.com/xxehacker"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Bug+Hunter;Full+Stack+Developer;React+Developer;Python+Developer" alt="Typing SVG" align="center"/></a>
+</p>
 
-<p align="left">
-<a href="https://portswigger.net/burp">
-<img src="https://img.shields.io/badge/burp Suite-00599C?style=for-the-badge&logo=java&logoColor=white">
-</a>
-<a href="https://www.metasploit.com/">
-<img src="https://img.shields.io/badge/Metasploit-61DAFB?&style=for-the-badge&logo=Meta&logoColor=121212">
-</a>
-<a href="https://www.sqlite.org/index.html">
-<img src="https://img.shields.io/badge/Sqlmap-003B57?&style=for-the-badge&logo=mysql&logoColor=white">
-</a>
-<a href="#">
-<img src="https://img.shields.io/badge/Subfinder-httpx-323330?style=for-the-badge&logo=go&logoColor=F7DF1E">
-</a>
-<a href="https://www.json.org/json-en.html">
-<img src="https://img.shields.io/badge/Assetfinder-Amass-000000?style=for-the-badge&logo=go&logoColor=white">
-</a>
-<a href="#">
-<img src="https://img.shields.io/badge/Bash-brightgreen?style=for-the-badge&logo=linux&logoColor=black">
-</a>
-<a href="#"></a>
-<img src="https://img.shields.io/badge/FISH-green?style=for-the-badge&logo=shell&logoColor=black">
-</a>
-<a href="https://git-scm.com/">
-<img src="https://img.shields.io/badge/github-F05032?&style=for-the-badge&logo=github&logoColor=white">
-</a>
-<a href="https://www.apple.com/in/macos/monterey/">
-<img src="https://img.shields.io/badge/MacOS-000000?&style=for-the-badge&logo=Apple&logoColor=white">
-</a>
-<a href="https://www.linux.org/">
-<img src="https://img.shields.io/badge/LINUX-black?style=for-the-badge&logo=linux&logoColor=yellow">
-</a>
-<a href="https://microsoft.com">
-<img src="https://img.shields.io/badge/WINDOWS-blue?style=for-the-badge&logo=windows&logoColor=white">
-</a>
+```javascript
+
+class MyDetails {
+    constructor() {
+        this.name = "Mridupawan Bordoloi (XxehackeR)";
+        this.role = "Full Stack Developer & Security Researcher";
+        this.portfolio = "https://mridupawan-portfolio.vercel.app";
+        this.description = `
+                Hi 🤝, I’m Mridupawan Bordoloi, also known as XxehackeR. 
+                I’m currently learning Full Stack (MERN) development with a strong foundation in cybersecurity. 
+                My journey began with an interest in cybersecurity, and though I’ve since shifted my focus to full stack development, 
+                I still bring a security-first approach to everything I build. 
+
+                I have experience in both frontend and backend development, leveraging technologies like:
+                -  Python, JavaScript, React.js, Tailwind CSS
+                -  Node.js, Express.js, MongoDB, and GSAP 
+
+                In the realm of cybersecurity, I actively engage in bug hunting and have successfully identified vulnerabilities across:
+                -  Various colleges and organizations
+                -  IndiaMART.com, Nokia.com
+                -  My own college’s website, contributing to a more secure digital environment.
+        `;
+    }
+
+    sayHi() {
+        console.log(`👋 Hi, I'm ${this.name}`);
+        console.log(`💻 Role: ${this.role}`);
+        console.log(`🌐 Portfolio: ${this.portfolio}`);
+        console.log("📬 Let's get in touch!\n");
+        console.log(`📝 About Me: ${this.description}`);
+    }
+}
+
+const me = new MyDetails();
+me.sayHi();
+
+
+```
+<br>
+</div>
+
+<br>
+<div style="border: 2px solid #00FF00; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
+  <!-- Skills -->
+<p align="left" style="display: flex; align-items: center;">
+  <img src="https://see.fontimg.com/api/rf5/rg9Rx/YmY1M2RjMTM1MTBhNGY0NGE5MDNkN2Y1OWMyMjUzMzMudHRm/U2tpbGxz/ananda-black-personal-use-regular.png?r=fs&h=85&w=1250&fg=16D90D&bg=060101&tb=1&s=68" width="100" alt="Skills"/>
 </p>
 <br>
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=xxehacker&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true" alt="xxehacker's GitHub Stats" style="max-width: 100%; height: auto;" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=xxehacker&theme=midnight-purple&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&hide_current_streak=true" alt="xxehacker's GitHub Streak" style="max-width: 100%; height: auto;" />
-    </td>
-  </tr>
-</table>
 
-<!-- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxehacker&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact&langs_count=10" alt="xxehacker's Top Languages" style="max-width: 100%; height: auto;" />
-</div>  -->
-<!-- <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=xxehacker&theme=midnight-purple" alt="xxehacker's GitHub Trophies" style="max-width: 100%; height: auto;" />
-</div> -->
+<!-- Skills -->
+
+```mermaid
+graph TB
+    %% Color Definitions
+    classDef default fill:#0d1117,stroke:#00FF00,color:#FFFFFF,stroke-width:2px,font-size:14px
+    classDef category fill:#0d1117,stroke:#00FF00,color:#FFFFFF,stroke-width:3px,font-size:16px
+    classDef root fill:#0d1117,stroke:#00FF00,color:#FFFFFF,stroke-width:4px,font-size:18px
+
+    %% Main Structure
+    Root(("Skills"))
+    Root === Programming
+    Root === FullStack
+    Root === CyberSecurity
+
+    %% Programming Section
+    Programming --> Core
+    Core --> Java
+    Core --> Cpp["C/C++"]
+    Core --> Python
+    Core --> R
+    Core --> JavaScript
+    Core --> Shell
+
+    %% Full Stack Development Section
+    FullStack --> Frontend
+    FullStack --> Backend
+    FullStack --> Tools
+
+    Frontend --> ReactJS["React.js"]
+    Frontend --> AstroJS["Astro.js"]
+    Frontend --> ReduxToolkit["Redux Toolkit"]
+    Frontend --> ContextAPI["Context API"]
+    Frontend --> ReactQuery["React Query"]
+    Frontend --> HTML
+    Frontend --> CSS
+    Frontend --> TailwindCSS["Tailwind CSS"]
+
+    Backend --> NodeJS["Node.js"]
+    Backend --> ExpressJS["Express.js"]
+    Backend --> MongoDB
+    Backend --> PostgreSQL
+    Backend --> Prisma
+    Backend --> Mongoose
+
+    Tools --> Git
+    Tools --> GitHub
+    Tools --> GSAP
+
+    %% Cyber Security Section
+    CyberSecurity --> BurpSuite["Burp Suite"]
+    CyberSecurity --> Postman
+    CyberSecurity --> Linux
+    CyberSecurity --> BugHunting["Bug Hunting"]
+
+    %% Class Assignments
+    class Root root
+    class Programming, FullStack,CyberSecurity,Core,Frontend,Backend,Toolscategory
+
+```
+</div>
+<br>
+
+<!-- Projects -->
+<div align="right" style="border: 2px solid #00FF00; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
+
+  <p align="right" style="display: flex; align-items: center;">
+    <img src="https://see.fontimg.com/api/rf5/rg9Rx/YmY1M2RjMTM1MTBhNGY0NGE5MDNkN2Y1OWMyMjUzMzMudHRm/UHJvamVjdHM/ananda-black-personal-use-regular.png?r=fs&h=85&w=1250&fg=16D90D&bg=060101&tb=1&s=68" width="150" alt="projects">
+  </p>
+
+<p align="right">
+<a href="https://github.com/xxehacker/MoneyHack"><img src="https://github-readme-stats.vercel.app/api/pin/?username=xxehacker&repo=MoneyHack&theme=dark&title_color=00FF00&icon_color=FFFFFF&text_color=FFFFFF&bg_color=1e1e1e"/></a>
+<a href="https://github.com/xxehacker/reconcat"><img src="https://github-readme-stats.vercel.app/api/pin/?username=xxehacker&repo=reconcat&theme=dark&title_color=00FF00&icon_color=FFFFFF&text_color=FFFFFF&bg_color=1e1e1e"/></a>
+<a href="https://github.com/xxehacker/FreeTime"><img src="https://github-readme-stats.vercel.app/api/pin/?username=xxehacker&repo=FreeTime&theme=dark&title_color=00FF00&icon_color=FFFFFF&text_color=FFFFFF&bg_color=1e1e1e"/></a>
+<a href="https://github.com/xxehacker/Emerge-Report"><img src="https://github-readme-stats.vercel.app/api/pin/?username=xxehacker&repo=Emerge-Report&theme=dark&title_color=00FF00&icon_color=FFFFFF&text_color=FFFFFF&bg_color=1e1e1e"/></a>
+<a href="https://github.com/xxehacker/CodeMastery"><img src="https://github-readme-stats.vercel.app/api/pin/?username=xxehacker&repo=CodeMastery&theme=dark&title_color=00FF00&icon_color=FFFFFF&text_color=FFFFFF&bg_color=1e1e1e"/></a>
+<a href="https://github.com/xxehacker/weather-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=xxehacker&repo=weather-app&theme=dark&title_color=00FF00&icon_color=FFFFFF&text_color=FFFFFF&bg_color=1e1e1e"/></a>
+</p>
+
+</div>
+
+<br>
 
 
-<!--<br>  <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xxehacker&bg_color=000000&color=0617fe&line=24fd08&point=f50505&area=true&hide_border=true" alt="xxehacker's Activity Graph" style="max-width: 100%; height: auto; border-radius: 10px;" />
-</div> -->
-[![](https://visitcount.itsvg.in/api?id=xxehacker&icon=0&color=6)](https://visitcount.itsvg.in)
+<div style="border: 2px solid #00FF00; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
+
+<!-- GitHub Status -->
+
+<div style="border: 2px solid #00FF00; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
+
+<h2 align="center">
+  <img src="https://see.fontimg.com/api/rf5/rg9Rx/YmY1M2RjMTM1MTBhNGY0NGE5MDNkN2Y1OWMyMjUzMzMudHRm/R2l0aHViIFN0YXRz/ananda-black-personal-use-regular.png?r=fs&h=110&w=1622&fg=16D90D&bg=060101&tb=1&s=68" width="200" alt="GitHub Stats title">
+</h2>
+
+
+<div align="center" style="display: flex; flex-direction: column; justify-content: center; align-items: center; background-color: #0D1117; padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+  <div style="display: flex; justify-content: center; align-items: center; margin-bottom: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxehacker&langs_count=8&layout=compact&title_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117&border_color=30363D&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" width="355" height="175" style="margin-right: 10px;" />
+    <img src="https://streak-stats.demolab.com/?user=xxehacker&background=0D1117&ring=FFFFFF&fire=00FF00&currStreakNum=FFFFFF&sideNums=00FF00&currStreakLabel=FFFFFF&sideLabels=00FF00&dates=00FF00&stroke=00FF00&hide_border=true" alt="GitHub Streak" width="465" height="175" />
+  </div>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xxehacker&bg_color=0D1117&color=FFFFFF&line=00FF00&point=FFFFFF&area_color=E7CFAA&area=true&hide_border=true&custom_title=%20" width="850" height="300" alt="Contribution Constellation"/>
+</div>
+
+</div>
+
+<br>
+
+<div style="border: 2px solid #00FF00; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
+
+<!-- Connect Section -->
+<h2 align="center">
+  <img src="https://see.fontimg.com/api/rf5/rg9Rx/YmY1M2RjMTM1MTBhNGY0NGE5MDNkN2Y1OWMyMjUzMzMudHRm/Q29udGFjdCBNZQ/ananda-black-personal-use-regular.png?r=fs&h=110&w=1622&fg=16D90D&bg=060101&tb=1&s=68" width="200" alt="Reach Out">
+</h2>
+
+<p align="center">
+  <a href="https://x.com/xxehacker0x1"><img src="https://img.shields.io/badge/xxehacker0x1-1DA1F2?style=for-the-badge&logo=X&logoColor=FFFFFF&color=black" alt="Twitter" /></a>
+  <a href="https://www.instagram.com/mridupawan0x1" target="_blank"><img src="https://img.shields.io/badge/mridupawan0x1-E4405F?style=for-the-badge&logo=instagram&logoColor=FFFFFF&color=black" alt="Instagram" /></a>
+  <a href="https://www.linkedin.com/in/mridupawan503"><img src="https://img.shields.io/badge/mridupawan503-0077B5?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&color=black" alt="LinkedIn" /></a>
+</p>
+
+<br>
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://see.fontimg.com/api/rf5/9aBZ/NzZhZGVhODJkOGNlNDlkMWIxMWQ2NTEwM2EwMzA3NjQudHRm/QnVpbGRpbmcgc2VjdXJlIGFwcHMsIGJyZWFraW5nIGluc2VjdXJlIG9uZXMu/lovely-home.png?r=fs&h=85&w=1250&fg=16D90D&bg=060101&tb=1&s=68" width="500" alt="Building secure apps, breaking insecure ones.">
+</p>
+
+
