@@ -9,7 +9,7 @@
 
 <!-- Follow Buttons -->
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=xxehacker&color=FFFFFF" alt="Profile Views"><img src="https://komarev.com/ghpvc/?username=xxehacker&color=FFFFFF" alt="Profile Views"></a>
+  <a href="https://komarev.com/ghpvc/?username=xxehacker&color=000000" alt="Profile Views"><img src="https://komarev.com/ghpvc/?username=xxehacker&color=FFFFFF" alt="Profile Views"></a>
   <a href="https://twitter.com/xxehacker"><img src="https://img.shields.io/twitter/follow/xxehacker?label=Follow&style=social" alt="Twitter Follow"></a>
 </p>
 
